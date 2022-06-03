@@ -286,7 +286,7 @@ async def vplay(client, m: Message):
                 await huehue.delete()
                 # await m.reply_to_message.delete()
                 await m.reply_photo(
-                    photo="https://telegra.ph/file/566e508eaa2549b2a794a.jpg",
+                    photo="https://telegra.ph/file/2502d67061c6b56f4fca4.jpg",
                     caption=f"""
 **الاغـنـيه** 🙂💞 : [{songname}]({link})
 **ايدي الـمجـمـوعه** 🙂💞 : {chat_id}
