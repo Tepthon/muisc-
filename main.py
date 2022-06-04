@@ -3,7 +3,7 @@ import asyncio
 from pytgcalls import idle
 
 from config import call_py
-from NovaMusic.التشغيل import arq
+from TepthonMusic.التشغيل import arq
 
 
 async def main():
